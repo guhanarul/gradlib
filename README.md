@@ -1,2 +1,2 @@
-# algolib
-Library ,built from scratch for machine learning algorithm that runs really fast!
+# gradlib
+Building now for grasping them.. Soon this may solve some problem..! 
